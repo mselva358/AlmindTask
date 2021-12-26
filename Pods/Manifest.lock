@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Haneke (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Haneke
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Haneke
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
+
+PODFILE CHECKSUM: 7cbd559dc3e1d668a009b5f9652a9a9fc728ebce
+
+COCOAPODS: 1.11.2
